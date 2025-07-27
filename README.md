@@ -1,7 +1,3 @@
-This repository contains MATLAB code for the paper:
-"Simultaneous Multi-Rate Threshold Optimization of Protograph-Based 
-Raptor-Like LDPC Codes via Genetic Algorithm"
-
 This MATLAB code designs protograph of a rate-compatible LDPC Codes in
 Protograph-Based Raptor-like (PBRL) LDPC codes structure which
 optimizes decoding threshold of the protograph via genetic algorithm.
